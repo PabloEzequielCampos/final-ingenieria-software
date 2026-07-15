@@ -4,3 +4,7 @@ Fecha: 15/07/2026
 Descripcion: Proyecto final de Ing de software.
 
 
+## Tecnologías Utilizadas
+- Git
+- GitHub
+- Markdown
